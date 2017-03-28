@@ -6,3 +6,4 @@
 5.如果部署到Linux服务器，请修改runtime文件夹和public文件夹下的uploads文件夹（如果没有可手动创建）的权限，使其拥有写入权限。
 环境要求：
 PHP7.0以上+MySQL+Apache
+
