@@ -21,7 +21,7 @@ function footer() : string {
             class=\"am-footer am-footer-default\"
             data-am-footer=\"{  }\">
             <div class=\"am-footer-miscs \"> 
-            <p>CopyRight©$data  <a href='https://blog.coderwu.com' target='_blank'>Jehu</a></p>
+            <p>CopyRight©$data  <a href='https://blog.coderwu.com' target='_blank'>coderWu</a></p>
             </div>
            </footer>";
 }
